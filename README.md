@@ -6,5 +6,6 @@
 - 📫 How to reach me : Email: shivamsah.promail@gmail.com and https://www.linkedin.com/in/shivam-sah-a195931a2/ 
 <!--- shivamsapro/shivamsapro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes. --->
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivamsapro&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsapro&layout=compact)](https://github.com/shivamsapro/github-readme-stats)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivamsapro&hide=contribs,prs,stars&show_icons=true&theme=radical)
+
